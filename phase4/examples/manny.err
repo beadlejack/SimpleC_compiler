@@ -1,0 +1,6 @@
+line 11: 'r' has type void
+line 12: 'o' has type void
+line 22: invalid operands to binary =
+line 23: invalid operand to unary *
+line 29: invalid operands to binary =
+line 30: invalid arguments to called function

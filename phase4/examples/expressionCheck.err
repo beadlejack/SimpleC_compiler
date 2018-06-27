@@ -1,0 +1,20 @@
+line 15: invalid operands to binary &&
+line 19: invalid operands to binary &&
+line 21: invalid operands to binary ==
+line 23: invalid operands to binary ==
+line 24: invalid operands to binary !=
+line 27: invalid operands to binary >=
+line 28: invalid operands to binary >=
+line 29: invalid operands to binary <=
+line 35: invalid operands to binary -
+line 36: invalid operands to binary +
+line 37: invalid operands to binary +
+line 42: invalid operands to binary *
+line 44: invalid operand to unary *
+line 45: invalid operand to unary *
+line 47: lvalue required in expression
+line 50: invalid operand to unary !
+line 52: invalid operand to unary -
+line 56: invalid operand to unary sizeof
+line 58: invalid operands to binary []
+line 60: invalid operands to binary []
